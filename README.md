@@ -1,2 +1,2 @@
-# Channai-Demo
+# Chennai-Demo
 Chennai git repositories
